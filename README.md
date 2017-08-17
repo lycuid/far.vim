@@ -2,13 +2,13 @@
 
 A Far Manager like vim Color Scheme
 
-## gVim
+# gVim
 
-# Haskell
+## Haskell
 ![gVim Haskell](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-haskell.png)
 
-# Python
+## Python
 ![gVim Python](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-python.png)
 
-# C++
+## C++
 ![gVim cpp](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-cpp.png)
