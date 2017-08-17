@@ -5,10 +5,10 @@ A Far Manager like vim Color Scheme
 ## gVim
 
 # Haskell
-![gVim Haskell](https://www.github.com/ssjtux/vim-far/img/gui-haskell.png)
+![gVim Haskell](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-haskell.png)
 
 # Python
-![gVim Python](https://www.github.com/ssjtux/vim-far/img/gui-python.png)
+![gVim Python](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-python.png)
 
 # C++
-![gVim cpp](https://www.github.com/ssjtux/vim-far/img/gui-cpp.png)
+![gVim cpp](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-cpp.png)
