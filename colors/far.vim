@@ -4,10 +4,10 @@ let g:colors_name = "far"
 
 hi Normal ctermfg=cyan ctermbg=darkblue guifg=Aqua guibg=#000082
 
+
 hi link Function StorageClass
-hi Macro guifg=#00ff00 ctermfg=red
+hi Macro guifg=#00ff00 ctermfg=green
 hi Include guifg=#ff0000 ctermfg=red
-hi link Operator Statement
 hi Statement gui=NONE guifg=#ffffff ctermfg=white
 hi String guifg=#ffff00 ctermfg=yellow
 hi Number guifg=green ctermfg=green
@@ -17,6 +17,7 @@ hi Constant guifg=Magenta
 hi Comment gui=italic guibg=NONE guifg=#cacaca cterm=italic ctermfg=grey ctermbg=darkblue
 hi Identifier gui=NONE guifg=#66b2ff guibg=NONE
 hi Special gui=NONE guifg=#33ff33 guibg=NONE ctermfg=green
+hi MatchParen guibg=#ff0000 ctermbg=red
 
 hi Boolean gui=bold guifg=#2e96ff guibg=NONE
 hi ColorColumn gui=NONE guifg=NONE guibg=#1f1f1f
@@ -38,7 +39,6 @@ hi Folded gui=NONE guifg=#828282 guibg=NONE
 hi Ignore gui=NONE guifg=NONE guibg=NONE
 hi IncSearch gui=NONE guifg=NONE guibg=#3b3b3b
 hi LineNr gui=NONE guifg=#c2c2c2 guibg=NONE
-hi MatchParen gui=NONE guifg=#ff0000 guibg=#ffffff
 hi ModeMsg gui=bold guifg=NONE guibg=NONE
 hi MoreMsg gui=bold guifg=NONE guibg=NONE
 hi NonText gui=NONE guifg=#707070 guibg=NONE
