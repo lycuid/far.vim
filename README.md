@@ -6,7 +6,6 @@ Used [cSyntaxAfter][vimorglink] for highlighting operators, brackets. Download a
 C++
 ![gVim cpp](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-cpp.png)
 
-
 Haskell
 ![gVim Haskell](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-haskell.png)
 
