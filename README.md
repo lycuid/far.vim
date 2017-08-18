@@ -1,21 +1,18 @@
 # vim-far
-A Far Manager like Color Scheme (Vim/gVim).
-Used [cSyntaxAfter][vimorglink] for highlighting operators, brackets.
-Download and copy `colors` directory to `{path/to/vim}/vimfiles` and set `:colorscheme far`
+A Far Manager like Color Scheme (Vim/gVim).<br />
+Used [cSyntaxAfter][vimorglink] for highlighting operators, brackets.<br />
+Download and copy `colors` directory to `{path/to/vim}/vimfiles` and set -> <br />
+`:colorscheme far`
 
 # gVim
 
-
-C++
-
+C++<br />
 ![gVim cpp](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-cpp.png)
 
-Haskell
-
+Haskell<br />
 ![gVim Haskell](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-haskell.png)
 
-Python
-
+Python<br />
 ![gVim Python](https://raw.githubusercontent.com/ssjtux/vim-far/master/img/gui-python.png)
 
 
