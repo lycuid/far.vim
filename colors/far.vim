@@ -14,7 +14,7 @@ hi Number guifg=green ctermfg=green
 hi StorageClass guifg=#66b2ff
 hi Type gui=NONE guifg=#00ffff
 hi Constant guifg=Magenta
-hi Comment gui=italic guibg=NONE guifg=#cacaca cterm=italic ctermfg=grey ctermbg=darkblue
+hi Comment gui=NONE guibg=NONE guifg=#cacaca cterm=italic ctermfg=grey ctermbg=darkblue
 hi Identifier gui=NONE guifg=#66b2ff guibg=NONE
 hi Special gui=NONE guifg=#33ff33 guibg=NONE ctermfg=green
 hi MatchParen guibg=#ff0000 ctermbg=red
