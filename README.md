@@ -1,4 +1,4 @@
-# vim-far
+# far.vim
 A Far Manager like Color Scheme (Vim/gVim).<br />
 Used [cSyntaxAfter][vimorglink] for highlighting operators, brackets.<br />
 Download and copy `colors` directory to `{path/to/vim}/vimfiles` and set -> <br />
